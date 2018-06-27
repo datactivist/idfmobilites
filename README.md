@@ -3,8 +3,8 @@
 ** Objectifs de la journée :**
 - Donner à voir l’éventail des données ouvrables par IDF Mobilités
 - Inclure les participants dans une réflexion d’ouverture de jeux de données. 
-Leur faire poser les bonnes questions : au delà des données que l’on ouvre, à quels usages vont-elles répondre  ? 
-Faire émerger de façon ludique, des jeux de données existants en interne pouvant répondre à des grands cas d’usage choisis en amont
+- Leur faire poser les bonnes questions : au delà des données que l’on ouvre, à quels usages vont-elles répondre  ? 
+- Faire émerger de façon ludique, des jeux de données existants en interne pouvant répondre à des grands cas d’usage choisis en amont
 
 
 ### 9H15 - Accueil des participants
