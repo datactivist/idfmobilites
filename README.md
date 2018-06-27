@@ -49,7 +49,7 @@ Consignes de facilitation de l’atelier
 
 ### 11h-11h10 : restitution des ateliers autour des jeux de données
 
-###11h10-11h40 : Atelier individuel - freins et moteurs pour une démarche open data
+### 11h10-11h40 : Atelier individuel - freins et moteurs pour une démarche open data
 Objectif : prendre en compte toutes les problématiques des participants y répondre et faire pencher la balance vers les moteurs si possible (le cas dans tous nos ateliers jusqu'à aujourd'hui).
 
 DEROULE
