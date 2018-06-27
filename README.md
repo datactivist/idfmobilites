@@ -1,6 +1,6 @@
 # Atelier "Mise en pratique de l’open data" à IDF Mobilités le 27 juin 2018 
 
-** Objectifs de la journée :**
+**Objectifs de la journée**
 - Donner à voir l’éventail des données ouvrables par IDF Mobilités
 - Inclure les participants dans une réflexion d’ouverture de jeux de données. 
 - Leur faire poser les bonnes questions : au delà des données que l’on ouvre, à quels usages vont-elles répondre  ? 
